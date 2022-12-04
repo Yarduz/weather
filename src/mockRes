@@ -1,0 +1,46 @@
+{
+    "Headline": {
+        "EffectiveDate": "2022-12-04T07:00:00+02:00",
+        "EffectiveEpochDate": 1670130000,
+        "Severity": 7,
+        "Text": "Seasonal temperatures for the next 5 days",
+        "Category": "",
+        "EndDate": null,
+        "EndEpochDate": null,
+        "MobileLink": "http://www.accuweather.com/en/il/elat/1-215615_1_al/daily-weather-forecast/1-215615_1_al?lang=en-us",
+        "Link": "http://www.accuweather.com/en/il/elat/1-215615_1_al/daily-weather-forecast/1-215615_1_al?lang=en-us"
+    },
+    "DailyForecasts": [
+        {
+            "Date": "2022-12-03T07:00:00+02:00",
+            "EpochDate": 1670043600,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 62,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 78,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "Day": {
+                "Icon": 4,
+                "IconPhrase": "Intermittent clouds",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 33,
+                "IconPhrase": "Clear",
+                "HasPrecipitation": false
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/il/elat/1-215615_1_al/daily-weather-forecast/1-215615_1_al?lang=en-us",
+            "Link": "http://www.accuweather.com/en/il/elat/1-215615_1_al/daily-weather-forecast/1-215615_1_al?lang=en-us"
+        }
+    ]
+}

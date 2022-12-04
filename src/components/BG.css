@@ -1,0 +1,23 @@
+.div {
+    z-index: -1;
+    width: 100vw;
+    position: fixed;
+}
+
+.top {
+    background-color: aqua;
+    height: 30vh;
+}
+
+.top.dark {
+    background-color: rgb(8, 8, 57);
+}
+
+.bottom {
+    background-color: darkgoldenrod;
+    height: 70vh;
+}
+
+.bottom.dark {
+    background-color: rgb(53, 25, 4);
+}
